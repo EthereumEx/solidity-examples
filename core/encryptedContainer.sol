@@ -1,5 +1,5 @@
 pragma solidity ^0.4.4;
-import "./headers/iEncryptedContainer.sol";
+import "./../headers/iEncryptedContainer.sol";
 
 contract EncryptedContainer is IEncryptedContainer
 {

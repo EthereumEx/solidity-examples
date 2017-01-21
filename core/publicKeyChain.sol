@@ -1,6 +1,6 @@
 pragma solidity ^0.4.4;
-import "./headers/iAcl.sol";
-import "./headers/iPublicKeyChain.sol";
+import "./../headers/iAcl.sol";
+import "./../headers/iPublicKeyChain.sol";
 
 contract PublicKeyChain is IPublicKeyChain
 {

@@ -1,7 +1,7 @@
 pragma solidity ^0.4.4;
-import "./headers/iPublicKeyChain.sol";
-import "./headers/iParty.sol";
-import "./headers/iAcl.sol";
+import "./../headers/iPublicKeyChain.sol";
+import "./../headers/iParty.sol";
+import "./../headers/iAcl.sol";
 
 contract Party is IParty
 {
